@@ -5,12 +5,11 @@ New release Xworm 7.2 and already cracked by Unknownhat127001 🔥
 
 ### New features
 ----
-- Network Router Exploit
+- Crypto mining (btc and monero)
 - Reset Survival
-- Files Injector
-- Stealth USB Injection
-- Gmail Control In Background
-- 3 more funny features...
+- Spread to other systems
+- Better cookie stealer
+- 3 more features...
 
 **License**
 ----
